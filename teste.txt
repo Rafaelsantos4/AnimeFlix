@@ -1,6 +1,19 @@
+
+<head>
+
+</head>
+
+<body>
+
 <header>OTAKUFIRE<header>
 
 <h1>BOMBA! A MORTE E O NOME DE “DEUS”! O EPISÓDIO MAIS BOMBÁSTICO DE BLEACH! Análise EP. 28</h1>
 <p>#BLEACH</p>
 
+body {
+    color: white;
+    background: black;
+}
 
+
+</body>
